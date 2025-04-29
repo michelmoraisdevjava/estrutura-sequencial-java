@@ -4,14 +4,14 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * Classe principal que representa a Máquina Matemática.
- * O programa permite que o usuário escolha operações matemáticas e obtenha resultados.
- * Operações disponíveis:
- * 1 - Calcular potência
+ * Classe principal que representa a Maquina Matematica.
+ * O programa permite que o usuario escolha operacoes matematicas e obtenha resultados.
+ * Operacoes disponiveis:
+ * 1 - Calcular potencia
  * 2 - Calcular raiz quadrada
  * 3 - Arredondar número
  * 4 - Encontrar maior ou menor valor
- * 5 - Gerar número aleatório
+ * 5 - Gerar numero aleatório
  * 0 - Encerrar o programa
  */
 
